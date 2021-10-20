@@ -1,7 +1,7 @@
 print (" ------------------------------------------------") 
 print ("|                                                |")                                      
 print ("|    02GoodbyeWorld                              |")
-print ("|    Name : Mr Horan                             |")                                
+print ("|    Name : Isabelle Pannell                     |")                                
 print ("|    Version : 01                                |")
 print ("|                                                |")
 print (" ------------------------------------------------") 
