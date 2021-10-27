@@ -6,7 +6,9 @@ print("|    Version : 01                                |")
 print("|                                                |") 
 print(" ------------------------------------------------")
 user = input("What is the name of this subject ")
-if user == "IST": 
-    exit()
+while user != ("IST"):
+    print("Not correct - try again")
+    user = input("What is the name of this subject ")
+    continue
 else:
-    print("Not Correct - try again")
+    print("\nCongratulations!!\n")
