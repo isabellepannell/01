@@ -7,7 +7,7 @@ print("|                                                |")
 print(" ------------------------------------------------")
 user = input("What is the name of this subject ")
 while user != ("IST"):
-    print("Not correct - try again")
+    print("Not Correct - try again")
     user = input("What is the name of this subject ")
     continue
 else:
