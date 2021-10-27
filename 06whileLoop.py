@@ -11,4 +11,4 @@ while user != ("IST"):
     user = input("What is the name of this subject ")
     continue
 else:
-    print("\nCongratulations!!\n")
+    print("\n\nCongratulations!!\n\n")
