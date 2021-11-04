@@ -122,7 +122,7 @@ while True:
     else:
         print ("----Start of Output ---------------------------")
         print ("")
-        print ("invalid option")
+        print (" invalid option")
         print ("")
         print ("----End of Output -----------------------------")
         
